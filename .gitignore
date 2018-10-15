@@ -1,0 +1,13 @@
+.DS_store
+
+*.pyc
+*.pptx
+
+# use pandoc to export from markdown
+# to LaTeX then to html then to docx
+Export/original
+Export/cover
+Export/text
+
+# pycharm project
+Export/.idea
