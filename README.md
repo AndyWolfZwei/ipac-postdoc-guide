@@ -48,6 +48,7 @@ Click [HERE](Instructions_on_stage_4.md) for instructions on stage IV.
 For problems in stages I and III, please contact [Prof. Zhang](mailto:wdzhang@sjtu.edu.cn).
 
 For problems in other stages, please contact [Zehua Jia](mailto:598053117@qq.com) and [Zhiwei Zhuang](mailto:zzw1993@sjtu.edu.cn) to arrange a person to help you.
+Note：During the winter and summer holidays, we don't handle the other stages.
 
 [Weidong Zhang](mailto:wdzhang@sjtu.edu.cn)
 
